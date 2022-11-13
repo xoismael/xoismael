@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @xoismael
 - 👀 I’m just curious 
-- 🌱 I’m currently learning machine learning
 - 📫 How to reach me :- ismaelshemsu10@gmail.com
 
 <!---
