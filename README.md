@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @xoismael
-- 👀 I’m just curious 
+- 👀 Learning CyberSecurity
 - 📫 How to reach me :- ismaelshemsu10@gmail.com
 
 <!---
